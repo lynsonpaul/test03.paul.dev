@@ -11,7 +11,7 @@
 
 // Exit if accessed directly.
 defined( 'ABSPATH' ) || exit;
-
+// Activity actions : Paul
 /**
  * Allow core components and dependent plugins to register activity actions.
  *
