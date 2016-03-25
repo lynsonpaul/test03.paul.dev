@@ -10,7 +10,7 @@
 
 // Exit if accessed directly.
 defined( 'ABSPATH' ) || exit;
-
+// Settings File : Paul
 /**
  * Handles the changing and saving of user email addresses and passwords.
  *
