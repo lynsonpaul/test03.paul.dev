@@ -25,7 +25,7 @@
 defined( 'ABSPATH' ) || exit;
 
 /** Constants *****************************************************************/
-
+/* Comment by Paul */
 if ( !class_exists( 'BuddyPress' ) ) :
 /**
  * Main BuddyPress Class.
